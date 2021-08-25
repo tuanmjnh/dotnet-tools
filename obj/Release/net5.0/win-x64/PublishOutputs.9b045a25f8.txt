@@ -1,0 +1,6 @@
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\dotnet-tools.pdb
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\clrjit.dll
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\coreclr.dll
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+D:\applications\dotnet-tools\bin\Release\net5.0\win-x64\publish\dotnet-tools.exe

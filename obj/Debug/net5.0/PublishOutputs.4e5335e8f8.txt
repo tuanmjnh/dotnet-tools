@@ -1,0 +1,5 @@
+D:\applications\dotnet-tools\bin\Debug\net5.0\publish\dotnet-tools.exe
+D:\applications\dotnet-tools\bin\Debug\net5.0\publish\dotnet-tools.dll
+D:\applications\dotnet-tools\bin\Debug\net5.0\publish\dotnet-tools.deps.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\publish\dotnet-tools.runtimeconfig.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\publish\dotnet-tools.pdb

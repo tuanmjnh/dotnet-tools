@@ -1,0 +1,16 @@
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools.deps.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools.runtimeconfig.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools.runtimeconfig.dev.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools.dll
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\ref\dotnet-tools.dll
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\dotnet-tools.pdb
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.csproj.AssemblyReference.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.AssemblyInfoInputs.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.AssemblyInfo.cs
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.csproj.CoreCompileInputs.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.dll
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\ref\dotnet-tools.dll
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.pdb
+D:\applications\dotnet-tools\obj\Debug\net5.0\linux-x64\dotnet-tools.genruntimeconfig.cache

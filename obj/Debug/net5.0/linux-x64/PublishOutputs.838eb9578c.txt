@@ -1,0 +1,2 @@
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\publish\dotnet-tools.pdb
+D:\applications\dotnet-tools\bin\Debug\net5.0\linux-x64\publish\dotnet-tools

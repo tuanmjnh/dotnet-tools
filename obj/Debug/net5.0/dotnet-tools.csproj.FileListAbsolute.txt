@@ -1,0 +1,16 @@
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.exe
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.deps.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.runtimeconfig.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.runtimeconfig.dev.json
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.dll
+D:\applications\dotnet-tools\bin\Debug\net5.0\ref\dotnet-tools.dll
+D:\applications\dotnet-tools\bin\Debug\net5.0\dotnet-tools.pdb
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.csproj.AssemblyReference.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.AssemblyInfoInputs.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.AssemblyInfo.cs
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.csproj.CoreCompileInputs.cache
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.dll
+D:\applications\dotnet-tools\obj\Debug\net5.0\ref\dotnet-tools.dll
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.pdb
+D:\applications\dotnet-tools\obj\Debug\net5.0\dotnet-tools.genruntimeconfig.cache
